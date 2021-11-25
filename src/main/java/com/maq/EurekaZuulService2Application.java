@@ -14,6 +14,6 @@ public class EurekaZuulService2Application {
   
 	@PostConstruct
 	public void test() {
-		System.out.println("test");
+		System.out.println("test s");
 	}
 }
